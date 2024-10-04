@@ -1,0 +1,11 @@
+title,description,imageUrl,price,releaseDate,developer,publisher,platform,country,status,stock,discount,ageRating
+The Witcher 3: Wild Hunt,"An open-world RPG where you play as Geralt of Rivia, a monster hunter.",https://example.com/images/witcher3.jpg,29.99,2015-05-18,CD Projekt Red,CD Projekt,PC,POLAND,PUBLISHED,100,0.00,18+
+Red Dead Redemption 2,"An epic tale of life in America at the dawn of the modern age.",https://example.com/images/rdr2.jpg,59.99,2018-10-26,Rockstar Games,Rockstar Games,PC,UNITED_STATES,PUBLISHED,150,10.00,18+
+Cyberpunk 2077,"A story-driven open world RPG set in a dangerous metropolis of the future.",https://example.com/images/cyberpunk2077.jpg,49.99,2020-12-10,CD Projekt Red,CD Projekt,PC,POLAND,PUBLISHED,200,20.00,18+
+Minecraft,"A game about placing blocks and going on adventures.",https://example.com/images/minecraft.jpg,26.95,2011-11-18,Mojang Studios,Mojang Studios,PC,SWEDEN,PUBLISHED,300,0.00,10+
+The Legend of Zelda: Breath of the Wild,"An action-adventure game set in an open world where players are free to explore.",https://example.com/images/zelda.jpg,59.99,2017-03-03,Nintendo,Nintendo,NINTENDO_SWITCH,JAPAN,PUBLISHED,250,5.00,10+
+Doom Eternal,"A first-person shooter that continues the story of the Doom Slayer.",https://example.com/images/doom_eternal.jpg,59.99,2020-03-20,id Software,Bethesda Softworks,PC,UNITED_STATES,PUBLISHED,180,15.00,18+
+Animal Crossing: New Horizons,"A social simulation game where you develop a deserted island.",https://example.com/images/animal_crossing.jpg,59.99,2020-03-20,Nintendo,Nintendo,NINTENDO_SWITCH,JAPAN,PUBLISHED,200,0.00,3+
+Hades,"A rogue-like dungeon crawler where you battle out of the Underworld of Greek myth.",https://example.com/images/hades.jpg,24.99,2020-09-17,Supergiant Games,Supergiant Games,PC,UNITED_STATES,PUBLISHED,120,0.00,12+
+Among Us,"An online multiplayer game of teamwork and betrayal.",https://example.com/images/among_us.jpg,4.99,2018-06-15,InnerSloth,InnerSloth,PC,UNITED_STATES,PUBLISHED,500,0.00,10+
+Hollow Knight,"An action-adventure game set in a beautifully haunting world.",https://example.com/images/hollow_knight.jpg,14.99,2017-02-24,Team Cherry,Team Cherry,PC,AUSTRALIA,PUBLISHED,80,0.00,10+
